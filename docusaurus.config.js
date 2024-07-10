@@ -11,7 +11,7 @@ const config = {
   // url: 'https://meta3d-4g18u7z10c8427f9-1302358347.tcloudbaseapp.com/website',
   url: 'https://gts-play-website-u771.4everland.app/',
   // baseUrl: '/packages/website/build/index.html/',
-  baseUrl: '/build/index.html/',
+  baseUrl: '/build/',
   // baseUrl: '/website/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
