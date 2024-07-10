@@ -23,6 +23,9 @@ function HomepageHeader() {
         </div>
         <div className={styles.buttons}>
           <Link
+            style={{
+              "marginTop": "2rem"
+            }}
             className="button button--secondary button--lg"
             to="https://tieba.baidu.com/f?kw=%E5%B7%A8%E5%A4%A7%E5%A8%98%E7%9A%84%E7%8E%A9%E8%80%8D&ie=utf-8&tab=main">
             进入论坛
@@ -30,6 +33,9 @@ function HomepageHeader() {
         </div>
         <div className={styles.buttons}>
           <Link
+            style={{
+              "marginTop": "2rem"
+            }}
             className="button button--secondary button--lg"
             to="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QpNrLbhk5TZD8bg_sNalLrAKHVS3qCD2&authKey=ePPMKFJ1H3OXMdRLXJlYKNdyMPoO%2Fh2FWzcxgx5LjtdqZGmKU5i5QbYbAZeZRoz%2F&noverify=0&group_code=892578345">
             交流加QQ群
