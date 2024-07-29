@@ -53,7 +53,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://gts-play-public-3w5f.4everland.app',
+            href: 'https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/gts_play_production/dist/index.html',
             label: '进入游戏',
           },
           // {
