@@ -8,11 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: "巨大娘的玩耍",
   tagline: "扮演巨大娘闯关",
-  // url: 'https://meta3d-4g18u7z10c8427f9-1302358347.tcloudbaseapp.com/website',
-  url: 'https://gts-play-website-u771.4everland.app/',
-  // baseUrl: '/packages/website/build/index.html/',
-  baseUrl: '/',
-  // baseUrl: '/website/build/',
+  
+  // url: 'https://gts-play-website-u771.4everland.app/',
+  url:'https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/',
+
+  // baseUrl: '/',
+  baseUrl: '/gts_play_website/build/',
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
