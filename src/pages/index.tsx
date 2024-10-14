@@ -38,7 +38,7 @@ function HomepageHeader() {
             }}
             className="button button--secondary button--lg"
             to="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QpNrLbhk5TZD8bg_sNalLrAKHVS3qCD2&authKey=ePPMKFJ1H3OXMdRLXJlYKNdyMPoO%2Fh2FWzcxgx5LjtdqZGmKU5i5QbYbAZeZRoz%2F&noverify=0&group_code=892578345">
-            交流加QQ群
+加QQ群：892578345
           </Link>
         </div>
       </div>
@@ -56,6 +56,7 @@ export default function Home(): JSX.Element {
       <main>
         {/* <HomepageFeatures />
         <HomepageUsages /> */}
+        <HomepageFeatures />
       </main>
     </Layout>
   );
