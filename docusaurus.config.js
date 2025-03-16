@@ -10,10 +10,11 @@ const config = {
   tagline: "扮演巨大娘和小人闯关",
 
   // url: 'https://gts-play-website-u771.4everland.app/',
-  url: 'https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/',
+  // url: 'https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/',
+  url: 'https://www.gts-play.cn/',
 
   // baseUrl: '/',
-  baseUrl: '/gts_play_website/build/',
+  baseUrl: '/website/',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -55,7 +56,8 @@ const config = {
         },
         items: [
           {
-            href: 'https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/gts_play_production/dist/index.html',
+            // href: 'https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/gts_play_production/dist/index.html',
+            href: 'https://www.gts-play.cn/',
             label: '进入游戏',
           },
           // {
@@ -128,3 +130,4 @@ const config = {
 };
 
 module.exports = config;
+ 

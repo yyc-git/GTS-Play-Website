@@ -17,7 +17,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/gts_play_production/dist/index.html">
+            // to="https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/gts_play_production/dist/index.html">
+            to="https://www.gts-play.cn/">
             进入游戏
           </Link>
         </div>
@@ -38,7 +39,7 @@ function HomepageHeader() {
             }}
             className="button button--secondary button--lg"
             to="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QpNrLbhk5TZD8bg_sNalLrAKHVS3qCD2&authKey=ePPMKFJ1H3OXMdRLXJlYKNdyMPoO%2Fh2FWzcxgx5LjtdqZGmKU5i5QbYbAZeZRoz%2F&noverify=0&group_code=892578345">
-加QQ群：892578345
+            加QQ群：892578345
           </Link>
         </div>
       </div>
