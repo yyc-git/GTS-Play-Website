@@ -10,14 +10,14 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '手机微信扫我进游戏',
+    title: '',
     // TODO all: replace image
     // image: '/img/Meta3D封面.jpg',
     // image: 'https://img2023.cnblogs.com/blog/419321/202302/419321-20230216053729215-360412937.jpg',
     image: 'img/code_text.png',
     description: (
       <>
-        建议手机微信打开
+        {/* 建议手机微信打开 */}
       </>
     ),
   },

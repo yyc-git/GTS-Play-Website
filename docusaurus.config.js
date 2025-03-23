@@ -7,14 +7,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "巨大娘的玩耍",
-  tagline: "扮演巨大娘和小人闯关",
+  tagline: "肉鸽二次元GTS 3D射击，扮演巨大娘和小人闯关",
 
   // url: 'https://gts-play-website-u771.4everland.app/',
   // url: 'https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/',
   url: 'https://www.gts-play.cn/',
 
   // baseUrl: '/',
-  baseUrl: '/website/',
+  baseUrl: '/website/chinese/',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
