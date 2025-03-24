@@ -66,6 +66,12 @@ const config = {
           //   position: 'left',
           //   label: '文档',
           // },
+          {
+            type: 'doc',
+            docId: '众筹须知',
+            position: 'left',
+            label: '文档',
+          },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://tieba.baidu.com/f?kw=%E5%B7%A8%E5%A4%A7%E5%A8%98%E7%9A%84%E7%8E%A9%E8%80%8D&ie=utf-8&tab=main',

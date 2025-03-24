@@ -39,11 +39,11 @@ const sidebars = {
   docs: [
     {
       type: 'category',
-      label: '入门',
+      label: '众筹',
       collapsible: false,
       collapsed: false,
       items: [
-        "简介"
+        "众筹须知"
       ],
     },
   ],
