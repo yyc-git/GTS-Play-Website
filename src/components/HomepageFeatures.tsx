@@ -10,7 +10,7 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '扫码进游戏',
+    title: '浏览器扫码进游戏',
     // TODO all: replace image
     // image: '/img/Meta3D封面.jpg',
     // image: 'https://img2023.cnblogs.com/blog/419321/202302/419321-20230216053729215-360412937.jpg',

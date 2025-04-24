@@ -17,8 +17,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            // to="https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/gts_play_production/dist/index.html">
-            to="https://www.gts-play.cn/">
+            to="https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/gts_play_production/dist/index.html">
+            {/* to="https://www.gts-play.cn/"> */}
             进入游戏
           </Link>
         </div>

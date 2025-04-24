@@ -9,9 +9,8 @@ const config = {
   title: "巨大娘的玩耍",
   tagline: "肉鸽二次元GTS 3D射击，扮演巨大娘和小人闯关",
 
-  // url: 'https://gts-play-website-u771.4everland.app/',
-  // url: 'https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/',
   url: 'https://www.gts-play.cn/',
+  // url: 'https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/gts_play_production/dist/index.html',
 
   // baseUrl: '/',
   baseUrl: '/website/chinese/',
@@ -56,8 +55,8 @@ const config = {
         },
         items: [
           {
-            // href: 'https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/gts_play_production/dist/index.html',
-            href: 'https://www.gts-play.cn/',
+            href: 'https://meta3d-local-9gacdhjl439cff76-1302358347.tcloudbaseapp.com/gts_play_production/dist/index.html',
+            // href: 'https://www.gts-play.cn/',
             label: '进入游戏',
           },
           // {
@@ -136,4 +135,3 @@ const config = {
 };
 
 module.exports = config;
- 
