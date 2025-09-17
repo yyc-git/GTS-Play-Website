@@ -22,7 +22,7 @@ function HomepageHeader() {
             进入游戏
           </Link>
         </div>
-        <div className={styles.buttons}>
+        {/* <div className={styles.buttons}>
           <Link
             style={{
               "marginTop": "2rem"
@@ -31,7 +31,7 @@ function HomepageHeader() {
             to="https://tieba.baidu.com/f?kw=%E5%B7%A8%E5%A4%A7%E5%A8%98%E7%9A%84%E7%8E%A9%E8%80%8D&ie=utf-8&tab=main">
             进入论坛
           </Link>
-        </div>
+        </div> */}
         <div className={styles.buttons}>
           <Link
             style={{

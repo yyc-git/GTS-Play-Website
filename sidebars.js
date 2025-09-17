@@ -37,15 +37,15 @@ const sidebars = {
   //   },
   // ],
   docs: [
-    {
-      type: 'category',
-      label: '众筹',
-      collapsible: false,
-      collapsed: false,
-      items: [
-        "众筹须知"
-      ],
-    },
+    // {
+    //   type: 'category',
+    //   label: '众筹',
+    //   collapsible: false,
+    //   collapsed: false,
+    //   items: [
+    //     "众筹须知"
+    //   ],
+    // },
   ],
 };
 
