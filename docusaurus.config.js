@@ -59,12 +59,12 @@ const config = {
             // href: 'https://www.gts-play.cn/',
             label: '进入游戏',
           },
-          // {
-          //   type: 'doc',
-          //   docId: '简介',
-          //   position: 'left',
-          //   label: '文档',
-          // },
+          {
+            type: 'doc',
+            docId: '简介',
+            position: 'left',
+            label: '模组文档',
+          },
           // {
           //   type: 'doc',
           //   docId: '众筹须知',

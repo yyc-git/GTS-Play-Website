@@ -46,6 +46,28 @@ const sidebars = {
     //     "众筹须知"
     //   ],
     // },
+    {
+      type: 'category',
+      label: '入门',
+      collapsible: false,
+      collapsed: false,
+      items: [
+        "简介",
+        "开发、测试、发布第一个模组",
+        "了解API",
+      ],
+    },
+    {
+      type: 'category',
+      label: '模组开发',
+      collapsible: false,
+      collapsed: false,
+      items: [
+        "职业模组",
+        "职业特性模组",
+        "Buff模组",
+      ],
+    },
   ],
 };
 
