@@ -35,31 +35,6 @@ Buff模组的名称请使用 `buff-` 作为前缀，例如：
 
 Buff协议的服务接口定义在 `buff-protocol/src/service/ServiceType.ts` 中：
 
-```typescript
-import { api } from "types/src/APIType";
-import { characterType, singleBuffData, state, usedGirl } from "types/src/ImportedTypes";
-
-export type service = {
-	init?: (api: api, state: state) => Promise<state>,
-	dispose?: (api: api, state: state) => Promise<state>,
-
-	getName: () => string,
-	getBuffData: (api: api) => singleBuffData,
-	addBuff: (api: api, state: state, usedGirl: usedGirl, lastTime: number, value: any) => Promise<state>,
-
-	getCharacterType: () => characterType,
-	getImageSrc: () => string,
-	isPositive: () => boolean,
-	getTargetName?: () => string,
-
-	getDescription?: (api: api, state: state) => string,
-
-	getCount?: (api: api, usedGirl: usedGirl) => (state: state) => number,
-}
-```
-
-"?"表示是可选函数
-
 ### 4.2 数据类型（StateType）
 
 Buff协议的数据类型定义在 `buff-protocol/src/state/StateType.ts` 中：
